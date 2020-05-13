@@ -1,4 +1,4 @@
-# Videos
+# Pics
 > Uma aplicação web desenvolvida com ReactJS que consume a API do Unsplash.
 
 Esta aplicação foi desenvolvida com ReactJS e foi utilizado o SemanticUI para estilização dos componentes. Esta aplicação permite a visualização de imagens do Unsplah a partir do consume da Unsplash API. Há um campo de texto no canto superior, o qual permite que os dados da pesquisa sejam enseridos, ao pressionar o "Enter", a requisição será feita e será retornado no máximo 10 imagens. Para realizar a requisição, será necessário adicionar uma chave (KEY) válida, isso pode ser feito criando um arquivo chamado token.js na pasta src/api.
